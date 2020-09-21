@@ -1,0 +1,16 @@
+* { transition: none; }
+
+/* Paralax Stuff */
+.parallax-window,
+.parallax-window-two,
+.parallax-window-three,
+.parallax-window-four
+{
+    min-height: 600px;
+    background: transparent;
+}
+.parallax-window-video {
+    background: transparent;
+    min-height: 380px;
+    margin-bottom:-10px;
+}
