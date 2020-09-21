@@ -1,3 +1,3 @@
 # Canada-Customs
-Purely developed in HTML, SCSS and Javascript. 
+Purely developed in CSS, SCSS and Javascript. 
 Its responsive.
